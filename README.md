@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center"><img width: 200px src="https://media.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif" /></div>
+<div align="center"> 
 
-<!--
-**misspaz/misspaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! I’m Macarena Paz✨
 
-Here are some ideas to get you started:
+## I’m a **Junior FullStack Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### (I’m also a photographer, graphic designer and UX/UI designer)
+
+---
+
+I’m passionate about **videogames, traveling & arts**.
+
+### Let’s talk!
+
+📧 macarenapaz91@gmail.com
+
+💻 [https://www.linkedin.com/in/macarena-paz/](https://www.linkedin.com/in/macarena-paz/)
+
+🎨 Portfolio ✨coming soon✨[Github Markdown 017c09d698aa4472af884576066bfe56.md](https://github.com/misspaz/misspaz/files/12717184/Github.Markdown.017c09d698aa4472af884576066bfe56.md)
+</div>
