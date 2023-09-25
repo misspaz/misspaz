@@ -17,5 +17,5 @@ I’m passionate about **videogames, traveling & arts**.
 
 💻 [https://www.linkedin.com/in/macarena-paz/](https://www.linkedin.com/in/macarena-paz/)
 
-🎨 Portfolio ✨coming soon✨[Github Markdown 017c09d698aa4472af884576066bfe56.md](https://github.com/misspaz/misspaz/files/12717184/Github.Markdown.017c09d698aa4472af884576066bfe56.md)
+🎨 Portfolio ✨coming soon✨
 </div>
