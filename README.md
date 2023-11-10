@@ -13,7 +13,7 @@ I’m passionate about **videogames, traveling & arts**.
 
 ### Let’s talk!
 
-📧 macarenapaz91@gmail.com
+📧 hola@macarenapaz.com
 
 💻 [https://www.linkedin.com/in/macarena-paz/](https://www.linkedin.com/in/macarena-paz/)
 
