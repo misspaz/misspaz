@@ -3,7 +3,7 @@
 
 # Hi! I’m Macarena Paz✨
 
-## I’m a **Junior FullStack Developer**
+## I’m a **FullStack Developer** based in Madrid
 
 ### (I’m also a photographer, graphic designer and UX/UI designer)
 
@@ -17,5 +17,5 @@ I’m passionate about **videogames, traveling & arts**.
 
 💻 [https://www.linkedin.com/in/macarena-paz/](https://www.linkedin.com/in/macarena-paz/)
 
-🎨 Portfolio ✨coming soon✨
+🎨 Portfolio ✨www.macarenapaz.com✨
 </div>
