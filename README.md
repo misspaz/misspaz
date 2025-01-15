@@ -17,5 +17,5 @@ I’m passionate about **videogames, traveling & arts**.
 
 💻 [https://www.linkedin.com/in/macarena-paz/](https://www.linkedin.com/in/macarena-paz/)
 
-🎨 Portfolio ✨www.macarenapaz.com✨
+🎨 Portfolio ✨[www.macarenapaz.com](www.macarenapaz.com)✨
 </div>
